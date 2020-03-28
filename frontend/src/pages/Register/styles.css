@@ -1,0 +1,7 @@
+.register-container-default .content form .input-group {
+  display: flex;
+}
+
+.register-container-default .content form .input-group input + input {
+  margin-left: 8px;
+}
